@@ -46,10 +46,10 @@ You can see visualizations of each model's network architecture by using [Netron
 
 | Model Name | Description | Framework |
 |   :---:      |     :---:      |     :---:     |
-| [Monolingual and Multilingual Image Captioning]( https://github.com/elliottd/GroundedTranslation)  | This is the source code that accompanies Multilingual Image Description with Neural Sequence Models .     | `Keras`
+| [Monolingual and Multilingual Image Captioning]( https://github.com/elliottd/GroundedTranslation)  | This is the source code that accompanies Multilingual Image Description with Neural Sequence Models.     | `Keras`
 | [pix2pix]( https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/pix2pix)  | Keras implementation of Image-to-Image Translation with Conditional Adversarial Networks.     | `Keras`
-| [DualGAN]( https://github.com/eriklindernoren/Keras-GAN/blob/master/dualgan/dualgan.py)  | Implementation of _DualGAN: Unsupervised Dual Learning for Image-to-Image Translation.     | `Keras`
-| [CycleGAN]( https://github.com/eriklindernoren/Keras-GAN/blob/master/cyclegan/cyclegan.py)  | Implementation of _Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks.     | `Keras`
+| [DualGAN]( https://github.com/eriklindernoren/Keras-GAN/blob/master/dualgan/dualgan.py)  | Implementation of _DualGAN: Unsupervised Dual Learning for Image-to-Image Translation_.     | `Keras`
+| [CycleGAN]( https://github.com/eriklindernoren/Keras-GAN/blob/master/cyclegan/cyclegan.py)  | Implementation of _Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks_.     | `Keras`
 
 <div align="right">
     <b><a href="#framework">↥ Back To Top</a></b>
@@ -74,11 +74,11 @@ You can see visualizations of each model's network architecture by using [Netron
 | [deepspeech2]( https://github.com/SeanNaren/deepspeech.pytorch)  | Implementation of DeepSpeech2 using Baidu Warp-CTC. Creates a network based on the DeepSpeech2 architecture, trained with the CTC activation function.    | `PyTorch`
 | [pytorch-seq2seq]( https://github.com/IBM/pytorch-seq2seq)  | A framework for sequence-to-sequence (seq2seq) models implemented in PyTorch.     | `PyTorch`
 | [loop]( https://github.com/facebookarchive/loop)  | A method to generate speech across multiple speakers.     | `PyTorch`
-| [neuraltalk2-pytorch]( https://github.com/ruotianluo/ImageCaptioning.pytorch)  | Image captioning model in pytorch(finetunable cnn in branch with_finetune)     | `PyTorch`
+| [neuraltalk2-pytorch]( https://github.com/ruotianluo/ImageCaptioning.pytorch)  | Image captioning model in pytorch (finetunable cnn in branch with_finetune)     | `PyTorch`
 | [seq2seq]( https://github.com/MaximumEntropy/Seq2Seq-PyTorch)  | This repository contains implementations of Sequence to Sequence (Seq2Seq) models in PyTorch.     | `PyTorch`
 | [seq2seq.pytorch]( https://github.com/eladhoffer/seq2seq.pytorch)  | Sequence-to-Sequence learning using PyTorch.     | `PyTorch`
 | [self-critical.pytorch]( https://github.com/ruotianluo/self-critical.pytorch)  | Self-critical Sequence Training for Image Captioning.     | `PyTorch`
-| [Hierarchical Attention Networks for Document Classification]( https://github.com/EdGENetworks/attention-networks-for-classification)  | IWe know that documents have a hierarchical structure, words combine to form sentences and sentences combine to form documents.     | `PyTorch`
+| [Hierarchical Attention Networks for Document Classification]( https://github.com/EdGENetworks/attention-networks-for-classification)  | We know that documents have a hierarchical structure, words combine to form sentences and sentences combine to form documents.     | `PyTorch`
 | [nmtpytorch]( https://github.com/lium-lst/nmtpytorch)  | Neural Machine Translation Framework in PyTorch.     | `PyTorch`
 | [pix2pix-pytorch]( https://github.com/mrzhu-cool/pix2pix-pytorch)  | PyTorch implementation of "Image-to-Image Translation Using Conditional Adversarial Networks".     | `PyTorch`
 | [torch_waveglow]( https://github.com/npuichigo/waveglow)  | A PyTorch implementation of the WaveGlow: A Flow-based Generative Network for Speech Synthesis.     | `PyTorch`
@@ -88,7 +88,7 @@ You can see visualizations of each model's network architecture by using [Netron
 | [pytorch-seq2seq-intent-parsing]( https://github.com/spro/pytorch-seq2seq-intent-parsing)  | Intent parsing and slot filling in PyTorch with seq2seq + attention.    | `PyTorch`
 | [captionGen]( https://github.com/eladhoffer/captionGen)  | Generate captions for an image using PyTorch.     | `PyTorch`
 | [bandit-nmt]( https://github.com/khanhptnk/bandit-nmt)  | This is code repo for our EMNLP 2017 paper "Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback".     | `PyTorch`
-| [Pytorch Poetry Generation]( https://github.com/jhave/pytorch-poetry-generation)  | is a repurposing of http://pytorch.org/: an early release beta software (developed by a consortium led by Facebook and NIVIDIA), a deep learning software that puts Python first.     | `PyTorch`
+| [Pytorch Poetry Generation]( https://github.com/jhave/pytorch-poetry-generation)  | is a repurposing of http://pytorch.org/: an early release beta software (developed by a consortium led by Facebook and NVIDIA), a deep learning software that puts Python first.     | `PyTorch`
 | [translagent]( https://github.com/facebookresearch/translagent)  | Code for Emergent Translation in Multi-Agent Communication.     | `PyTorch`
 
 <div align="right">
