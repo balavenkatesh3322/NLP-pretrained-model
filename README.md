@@ -36,6 +36,9 @@ You can see visualizations of each model's network architecture by using [Netron
 | [DeepSpeech]( https://github.com/tensorflow/models/tree/master/research/deep_speech)  | Automatic speech recognition.     | `Tensorflow`
 | [Im2txt]( https://github.com/tensorflow/models/tree/master/research/im2txt)  | Image-to-text neural network for image captioning.     | `Tensorflow`
 
+<div align="right">
+    <b><a href="#framework">↥ Back To Top</a></b>
+</div>
 
 ### Keras <a name="keras"/>
 
@@ -45,6 +48,10 @@ You can see visualizations of each model's network architecture by using [Netron
 | [pix2pix]( https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/pix2pix)  | Keras implementation of Image-to-Image Translation with Conditional Adversarial Networks.     | `Keras`
 | [DualGAN]( https://github.com/eriklindernoren/Keras-GAN/blob/master/dualgan/dualgan.py)  | Implementation of _DualGAN: Unsupervised Dual Learning for Image-to-Image Translation.     | `Keras`
 | [CycleGAN]( https://github.com/eriklindernoren/Keras-GAN/blob/master/cyclegan/cyclegan.py)  | Implementation of _Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks.     | `Keras`
+
+<div align="right">
+    <b><a href="#framework">↥ Back To Top</a></b>
+</div>
 
 ### PyTorch <a name="pytorch"/>
 
@@ -80,6 +87,9 @@ You can see visualizations of each model's network architecture by using [Netron
 | [Pytorch Poetry Generation]( https://github.com/jhave/pytorch-poetry-generation)  | is a repurposing of http://pytorch.org/: an early release beta software (developed by a consortium led by Facebook and NIVIDIA), a deep learning software that puts Python first.     | `PyTorch`
 | [translagent]( https://github.com/facebookresearch/translagent)  | Code for Emergent Translation in Multi-Agent Communication.     | `PyTorch`
 
+<div align="right">
+    <b><a href="#framework">↥ Back To Top</a></b>
+</div>
 
 ### MXNet <a name="mxnet"/>
 
@@ -89,11 +99,19 @@ You can see visualizations of each model's network architecture by using [Netron
 | [deepspeech]( https://github.com/samsungsds-rnd/deepspeech.mxnet)  | This example based on DeepSpeech2 of Baidu helps you to build Speech-To-Text (STT) models at scale using.     | `MXNet`
 | [mxnet-seq2seq]( https://github.com/yoosan/mxnet-seq2seq)  | This project implements the sequence to sequence learning with mxnet for open-domain chatbot.     | `MXNet`
 
+<div align="right">
+    <b><a href="#framework">↥ Back To Top</a></b>
+</div>
+
 ### Caffe <a name="caffe"/>
 
 | Model Name | Description | Framework |
 |   :---:      |     :---:      |     :---:     |
 | [Speech Recognition](https://github.com/pannous/caffe-speech-recognition)  | Speech Recognition with the caffe deep learning framework.     | `Caffe`
+
+<div align="right">
+    <b><a href="#framework">↥ Back To Top</a></b>
+</div>
 
 ## Contributions
 Contributions are also very welcome.
