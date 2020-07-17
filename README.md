@@ -18,6 +18,8 @@ A pre-trained model is a model created by some one else to solve a similar probl
 ### Model visualization
 You can see visualizations of each model's network architecture by using [Netron](https://github.com/lutzroeder/Netron).
 
+![NLP logo](https://github.com/balavenkatesh3322/NLP-pretrained-model/blob/master/netron.png)
+
 ### Tensorflow <a name="tensorflow"/>
 
 | Model Name | Description | Framework |
