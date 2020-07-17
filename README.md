@@ -40,6 +40,8 @@ You can see visualizations of each model's network architecture by using [Netron
     <b><a href="#framework">↥ Back To Top</a></b>
 </div>
 
+***
+
 ### Keras <a name="keras"/>
 
 | Model Name | Description | Framework |
@@ -52,6 +54,8 @@ You can see visualizations of each model's network architecture by using [Netron
 <div align="right">
     <b><a href="#framework">↥ Back To Top</a></b>
 </div>
+
+***
 
 ### PyTorch <a name="pytorch"/>
 
@@ -91,6 +95,9 @@ You can see visualizations of each model's network architecture by using [Netron
     <b><a href="#framework">↥ Back To Top</a></b>
 </div>
 
+***
+
+
 ### MXNet <a name="mxnet"/>
 
 | Model Name | Description | Framework |
@@ -103,6 +110,8 @@ You can see visualizations of each model's network architecture by using [Netron
     <b><a href="#framework">↥ Back To Top</a></b>
 </div>
 
+***
+
 ### Caffe <a name="caffe"/>
 
 | Model Name | Description | Framework |
@@ -112,6 +121,8 @@ You can see visualizations of each model's network architecture by using [Netron
 <div align="right">
     <b><a href="#framework">↥ Back To Top</a></b>
 </div>
+
+***
 
 ## Contributions
 Your contributions are always welcome!!
